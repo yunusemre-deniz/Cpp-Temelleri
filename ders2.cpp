@@ -8,12 +8,12 @@ int main(){
 
     if(sayi>6){
  
-        cout<<"Atanan deger:5"<<endl<<"Atanan deger 6'dan büyüktür";
+        cout<<"Atanan deger 6'dan büyüktür";
 
     }
     else{
 
-        cout<<"Atanan deger:5"<<endl<<"Atanan deger 6'dan küçüktür";
+        cout<<"Atanan deger 6'dan küçüktür";
 
     }
 
