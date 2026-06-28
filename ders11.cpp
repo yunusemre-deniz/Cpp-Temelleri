@@ -14,6 +14,6 @@ int main(){
     cout<<x<<endl;
     b+=a;
     x*=b;
-
+    
     cout<<b<<" "<<x;
 }
